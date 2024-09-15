@@ -961,3 +961,38 @@ section:nth-child(odd) .animate.scroll,
         width: 0;
     }
 }
+
+
+/* Contact Page Styles */
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #00abf0;
+}
+
+.contact-info {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #ffffff;
+}
+
+.contact-info a {
+    color: #3b36bd;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.btn-box {
+    margin-top: 30px;
+}
+
+/* End of Contact Page Styles */
